@@ -48,7 +48,7 @@ kadinini çal1șmamiza ortak kilmaktir."
 
 <!--Task List -->
 
-- [x] Task 1
+- [x] *Task 1*
     - [ ] Task 1.1
     - [x] Task 1.2
 - [ ] Task 2
@@ -56,7 +56,20 @@ kadinini çal1șmamiza ortak kilmaktir."
 
 <!--Ignoring Markdown -->
 
+\*My Project\*
 
+<!--Emoji -->
+
+:blue_heart: Coding with hakan :two_hearts:
+
+
+````kotlin
+
+fun main(){
+
+}
+
+````
 
 
 
