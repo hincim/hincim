@@ -1,7 +1,7 @@
 ````kotlin
 
 fun main(){
-   print("welcome to my github")
+   print("Welcome to my github")
 }
 
 ````
