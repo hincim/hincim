@@ -1,3 +1,11 @@
+````kotlin
+
+fun main(){
+   print("welcome to my github")
+}
+
+````
+
 ## Hi :wave:, I'm Hakan İnciman
 * I'm studying computer engineering at Selcuk University. 
 * I'm currently developing myself in the mobile app field. 
@@ -9,13 +17,7 @@
  
  ##### You can contact me with this e-mail address hakanincim4@gmail.com
  
-````kotlin
 
-fun main(){
-   print("welcome to my github")
-}
-
-````
 
 
 [Linkedin]: https://www.linkedin.com/in/hakan-inciman/
