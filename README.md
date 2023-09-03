@@ -1,16 +1,21 @@
-### Hi there 👋
+````kotlin
 
-<!--
-**hincim/hincim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fun main(){
+   print("Welcome to my github")
+}
 
-Here are some ideas to get you started:
+````
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi :wave:, I'm Hakan İnciman
+
+
+ Go to [Linkedin][Linkedin]
+ 
+ Go to [Instagram][Instagram]
+ 
+ 
+
+
+
+[Linkedin]: https://www.linkedin.com/in/hakan-inciman/
+[Instagram]: https://www.instagram.com/hakanninc/?hl=tr
