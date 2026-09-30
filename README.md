@@ -6,7 +6,7 @@ fun main(){
 
 ## Hi :wave:, I'm Hakan İnciman
 
-I am a Computer Engineering graduate and a software developer.  
+I'm a Computer Engineering graduate and a software developer.  
 I develop projects focused on mobile and web technologies.
 
 ## 🧩 Focus Areas
