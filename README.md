@@ -38,9 +38,18 @@ I develop projects focused on mobile and web technologies.
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
 </p>
 
-## 📈 Contribution Graph
+## 🐍 Contribution Activity
 
-![Hakan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hincim&theme=github-dark)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/hincim/hincim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/hincim/hincim/output/github-contribution-grid-snake.svg">
+    <img alt="Hakan İnciman Contribution Activity"
+         src="https://raw.githubusercontent.com/hincim/hincim/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 📫 Connect with me
 
